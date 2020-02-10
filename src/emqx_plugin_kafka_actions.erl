@@ -15,7 +15,7 @@
 %%--------------------------------------------------------------------
 
 %% Define the default actions.
--module(emqx_web_hook_actions).
+-module(emqx_plugin_kafka_actions).
 
 -include_lib("emqx/include/emqx.hrl").
 -include_lib("emqx/include/logger.hrl").
